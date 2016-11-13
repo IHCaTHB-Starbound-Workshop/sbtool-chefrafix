@@ -1,4 +1,4 @@
-# sbtool.chefrafix
+# sbtool-chefrafix
 
 Code licensed under GPLv3, file included
 
